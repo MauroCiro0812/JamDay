@@ -1,0 +1,5 @@
+.btn-custom-success {
+    background-color: rgba(40, 167, 69, 0.8); /* Ajusta el último valor (0.8) para cambiar la opacidad */
+    border-color: #28a745; /* Ajusta el color del borde según el color de fondo */
+    color: #fff; /* Ajusta el color del texto según el color de fondo */
+}
